@@ -1,0 +1,3 @@
+{"Date":"Mon Dec 18 2023 16:19:24 GMT+0100 (GMT+01:00)","level":"error","message":"Error: undefined || Status code: 503 || Error details: Error:CastError: Cast to ObjectId failed for value \"6\" (type string) at path \"_id\" for model \"User\" "}
+{"Date":"Mon Dec 18 2023 16:21:00 GMT+0100 (GMT+01:00)","level":"error","message":"Error: undefined || Status code: 503 || Error details: Error:CastError: Cast to ObjectId failed for value \"6\" (type string) at path \"_id\" for model \"User\" "}
+{"Date":"Tue Dec 19 2023 16:04:12 GMT+0100 (GMT+01:00)","level":"error","message":"Error: undefined || Status code: 500 || Error details: >..(.)..< "}
